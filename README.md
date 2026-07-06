@@ -29,3 +29,11 @@ If you find this code useful for your research, please consider citing our paper
   journal={Information Fusion},
   year={2026}
 }
+```
+
+## Contact
+
+If you have any questions about the paper or code, please contact:
+
+**Lei Wu**  
+Email: 2025010139@qdu.edu.cn
